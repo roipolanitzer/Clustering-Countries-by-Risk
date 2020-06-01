@@ -1,0 +1,158 @@
+Country,Moody's rating,Rating Coding,Rating-based Default Spread,Total Equity Risk Premium,Country Risk Premium
+Abu Dhabi,Aa2,3,0.007,0.069,0.009
+Albania,B1,14,0.067,0.142,0.082
+Andorra (Principality of),Baa2,9,0.028,0.095,0.035
+Angola,B3,16,0.096,0.179,0.119
+Argentina,Ca,20,0.150,0.245,0.185
+Armenia,Ba3,13,0.053,0.126,0.066
+Aruba,Baa1,8,0.024,0.089,0.029
+Australia,Aaa,1,0.000,0.060,0.000
+Austria,Aa1,2,0.006,0.067,0.007
+Azerbaijan,Ba2,12,0.045,0.115,0.055
+Bahamas,Baa3,10,0.033,0.100,0.040
+Bahrain,B2,15,0.082,0.161,0.101
+Bangladesh,Ba3,13,0.053,0.126,0.066
+Barbados,Caa1,17,0.111,0.197,0.137
+Belarus,B3,16,0.096,0.179,0.119
+Belgium,Aa3,4,0.009,0.071,0.011
+Belize,B3,16,0.096,0.179,0.119
+Benin,B2,15,0.082,0.161,0.101
+Bermuda,A2,6,0.013,0.076,0.016
+Bolivia,B1,14,0.067,0.142,0.082
+Bosnia and Herzegovina,B3,16,0.096,0.179,0.119
+Botswana,A2,6,0.013,0.076,0.016
+Brazil,Ba2,12,0.045,0.115,0.055
+Bulgaria,Baa2,9,0.028,0.095,0.035
+Burkina Faso,B2,15,0.082,0.161,0.101
+Cambodia,B2,15,0.082,0.161,0.101
+Cameroon,B2,15,0.082,0.161,0.101
+Canada,Aaa,1,0.000,0.060,0.000
+Cape Verde,B2,15,0.082,0.161,0.101
+Cayman Islands,Aa3,4,0.009,0.071,0.011
+Chile,A1,5,0.010,0.073,0.013
+China,A1,5,0.010,0.073,0.013
+Colombia,Baa2,9,0.028,0.095,0.035
+Congo (Democratic Republic of),Caa1,17,0.111,0.197,0.137
+Congo (Republic of),Caa2,18,0.134,0.225,0.165
+Cook Islands,B1,14,0.067,0.142,0.082
+Costa Rica,B2,15,0.082,0.161,0.101
+C?te d'Ivoire,Ba3,13,0.053,0.126,0.066
+Croatia,Ba2,12,0.045,0.115,0.055
+Cuba,Caa2,18,0.134,0.225,0.165
+Curacao,Baa1,8,0.024,0.089,0.029
+Cyprus,Ba2,12,0.045,0.115,0.055
+Czech Republic,Aa3,4,0.009,0.071,0.011
+Denmark,Aaa,1,0.000,0.060,0.000
+Dominican Republic,Ba3,13,0.053,0.126,0.066
+Ecuador,Caa3,19,0.148,0.243,0.183
+Egypt,B2,15,0.082,0.161,0.101
+El Salvador,B3,16,0.096,0.179,0.119
+Estonia,A1,5,0.010,0.073,0.013
+Ethiopia,B1,14,0.067,0.142,0.082
+Fiji,Ba3,13,0.053,0.126,0.066
+Finland,Aa1,2,0.006,0.067,0.007
+France,Aa2,3,0.007,0.069,0.009
+Gabon,Caa1,17,0.111,0.197,0.137
+Georgia,Ba2,12,0.045,0.115,0.055
+Germany,Aaa,1,0.000,0.060,0.000
+Ghana,B3,16,0.096,0.179,0.119
+Greece,B1,14,0.067,0.142,0.082
+Guatemala,Ba1,11,0.037,0.106,0.046
+Guernsey (States of),Baa1,8,0.024,0.089,0.029
+Honduras,B1,14,0.067,0.142,0.082
+Hong Kong,Aa3,4,0.009,0.071,0.011
+Hungary,Baa3,10,0.033,0.100,0.040
+Iceland,A2,6,0.013,0.076,0.016
+India,Baa2,9,0.028,0.095,0.035
+Indonesia,Baa2,9,0.028,0.095,0.035
+Iraq,Caa1,17,0.111,0.197,0.137
+Ireland,A2,6,0.013,0.076,0.016
+Isle of Man,Aa2,3,0.007,0.069,0.009
+Israel,A1,5,0.010,0.073,0.013
+Italy,Baa3,10,0.033,0.100,0.040
+Jamaica,B2,15,0.082,0.161,0.101
+Japan,A1,5,0.010,0.073,0.013
+Jersey (States of),A1,5,0.010,0.073,0.013
+Jordan,B1,14,0.067,0.142,0.082
+Kazakhstan,Baa3,10,0.033,0.100,0.040
+Kenya,B2,15,0.082,0.161,0.101
+Korea,Aa2,3,0.007,0.069,0.009
+Kuwait,Aa2,3,0.007,0.069,0.009
+Kyrgyzstan,B2,15,0.082,0.161,0.101
+Laos,B3,16,0.096,0.179,0.119
+Latvia,A3,7,0.018,0.082,0.022
+Lebanon,Ca,20,0.150,0.245,0.185
+Liechtenstein,Aaa,1,0.000,0.060,0.000
+Lithuania,A3,7,0.018,0.082,0.022
+Luxembourg,Aaa,1,0.000,0.060,0.000
+Macao,Aa3,4,0.009,0.071,0.011
+Macedonia,Ba3,13,0.053,0.126,0.066
+Malaysia,A3,7,0.018,0.082,0.022
+Maldives,B2,15,0.082,0.161,0.101
+Mali,B3,16,0.096,0.179,0.119
+Malta,A2,6,0.013,0.076,0.016
+Mauritius,Baa1,8,0.024,0.089,0.029
+Mexico,A3,7,0.018,0.082,0.022
+Moldova,B3,16,0.096,0.179,0.119
+Mongolia,B3,16,0.096,0.179,0.119
+Montenegro,B1,14,0.067,0.142,0.082
+Montserrat,Baa3,10,0.033,0.100,0.040
+Morocco,Ba1,11,0.037,0.106,0.046
+Mozambique,Caa2,18,0.134,0.225,0.165
+Namibia,Ba2,12,0.045,0.115,0.055
+Netherlands,Aaa,1,0.000,0.060,0.000
+New Zealand,Aaa,1,0.000,0.060,0.000
+Nicaragua,B3,16,0.096,0.179,0.119
+Niger,B3,16,0.096,0.179,0.119
+Nigeria,B2,15,0.082,0.161,0.101
+Norway,Aaa,1,0.000,0.060,0.000
+Oman,Ba2,12,0.045,0.115,0.055
+Pakistan,B3,16,0.096,0.179,0.119
+Panama,Baa1,8,0.024,0.089,0.029
+Papua New Guinea,B2,15,0.082,0.161,0.101
+Paraguay,Ba1,11,0.037,0.106,0.046
+Peru,A3,7,0.018,0.082,0.022
+Philippines,Baa2,9,0.028,0.095,0.035
+Poland,A2,6,0.013,0.076,0.016
+Portugal,Baa3,10,0.033,0.100,0.040
+Qatar,Aa3,4,0.009,0.071,0.011
+Ras Al Khaimah (Emirate of),Caa1,17,0.111,0.197,0.137
+Romania,Baa3,10,0.033,0.100,0.040
+Russia,Baa3,10,0.033,0.100,0.040
+Rwanda,B2,15,0.082,0.161,0.101
+Saudi Arabia,A1,5,0.010,0.073,0.013
+Senegal,Ba3,13,0.053,0.126,0.066
+Serbia,Ba3,13,0.053,0.126,0.066
+Sharjah,Baa2,9,0.028,0.095,0.035
+Singapore,Aaa,1,0.000,0.060,0.000
+Slovakia,A2,6,0.013,0.076,0.016
+Slovenia,Baa1,8,0.024,0.089,0.029
+Solomon Islands,B3,16,0.096,0.179,0.119
+South Africa,Ba1,11,0.037,0.106,0.046
+Spain,Baa1,8,0.024,0.089,0.029
+Sri Lanka,B2,15,0.082,0.161,0.101
+St. Maarten,Baa3,10,0.033,0.100,0.040
+St. Vincent & the Grenadines,B3,16,0.096,0.179,0.119
+Suriname,B2,15,0.082,0.161,0.101
+Swaziland,B2,15,0.082,0.161,0.101
+Sweden,Aaa,1,0.000,0.060,0.000
+Switzerland,Aaa,1,0.000,0.060,0.000
+Taiwan,Aa3,4,0.009,0.071,0.011
+Tajikistan,B3,16,0.096,0.179,0.119
+Tanzania,B1,14,0.067,0.142,0.082
+Thailand,Baa1,8,0.024,0.089,0.029
+Togo,B3,16,0.096,0.179,0.119
+Trinidad and Tobago,Ba1,11,0.037,0.106,0.046
+Tunisia,B2,15,0.082,0.161,0.101
+Turkey,B1,14,0.067,0.142,0.082
+Turks and Caicos Islands,Baa1,8,0.024,0.089,0.029
+Uganda,B2,15,0.082,0.161,0.101
+Ukraine,Caa1,17,0.111,0.197,0.137
+United Arab Emirates,Aa2,3,0.007,0.069,0.009
+United Kingdom,Aa2,3,0.007,0.069,0.009
+United States,Aaa,1,0.000,0.060,0.000
+Uruguay,Baa2,9,0.028,0.095,0.035
+Uzbekistan,B1,14,0.067,0.142,0.082
+Venezuela,C,21,0.150,0.245,0.185
+Vietnam,Ba3,13,0.053,0.126,0.066
+Zambia,Ca,20,0.150,0.245,0.185
